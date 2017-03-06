@@ -10,4 +10,4 @@ You will also need to bundle your gems if you wish to look at the project on loc
     
     bundle install
 
-Once you run the server you will have the ability to create users using Bcrypt for authorizations. 
+Once you run the server you will have the ability to create users, and login and logout using Bcrypt for authorizations. 
